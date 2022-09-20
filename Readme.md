@@ -1,6 +1,6 @@
 # Project 12 : Business Landing Page
 
-- Click here for live demo of the Project on [ NETLIFY ](https://parikshitproject2.netlify.app/ "Parikshit Project 1")
+- Click here for live demo of the Project on [ NETLIFY ](https://parikshit-tailwind-12.netlify.app// "Parikshit Project 12")
 
 <br/>
 
@@ -9,7 +9,7 @@
 <b> Note: </b>  
 - This Project is Mobile Responisive. 
  - In our Project the Media Query Targets  the particular viewport range.
-- Tailwind is Highly Customizable but i have not used those properties till now  because i was facing some issues regarding the proper Configuration of Tailwind during this Project,
+- Tailwind is Highly Customizable but during the time when i was working on this Project,  i was facing some issues regarding the proper Configuration of Tailwind.
 we will get a deeper dive into the concepts of Customization in Tailwind CSS in coming Projects.
 
 
